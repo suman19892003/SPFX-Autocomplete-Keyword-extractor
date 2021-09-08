@@ -1,4 +1,4 @@
-# spfx-auto-complete
+# SPFX Auto Complete And Keyword extractor
 
 ## Summary
 
